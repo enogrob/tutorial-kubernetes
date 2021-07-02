@@ -20,7 +20,7 @@ Using the interactive tutorials, you can learn to:
 * Update the containerized application with a new software version.
 * Debug the containerized application.
 
-The tutorials use [Katacoda]() to run a virtual terminal in your web browser that runs [Minikube](), a small-scale local deployment of Kubernetes that can run anywhere. There's no need to install any software or configure anything; each interactive tutorial runs directly out of your web browser itself.
+The tutorials use [Katacoda](https://www.katacoda.com) to run a virtual terminal in your web browser that runs [Minikube](https://minikube.sigs.k8s.io), a small-scale local deployment of Kubernetes that can run anywhere. There's no need to install any software or configure anything; each interactive tutorial runs directly out of your web browser itself.
 
 [Homepage](https://kubernetes.io/docs/tutorials/kubernetes-basics)
 
