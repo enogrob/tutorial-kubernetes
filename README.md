@@ -3,7 +3,7 @@ Roberto Nogueira
 BSd EE, MSd CE
 Solution Integrator Experienced - Certified by Ericsson
 ```
-# Tutorial project
+# Tutorial Kubernetes
 
 ![tutorial image](images/tutorial.png)
 
@@ -40,26 +40,26 @@ Kubernetes Basics
 * [ ] [6. Update your app](https://kubernetes.io/docs/tutorials/kubernetes-basics/update/update-intro/)
 
 Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]
- * [ ] [ 0. Course Overview](https://www.youtube.com/watch?v=X48VuDVv0do&t=0s) 
+ * [x] [ 0. Course Overview](https://www.youtube.com/watch?v=X48VuDVv0do&t=0s) 
 
  [1. What is Kubernetes](https://www.youtube.com/watch?v=X48VuDVv0do&t=138s) 
- * [ ] What problems does Kubernetes solve? 
- * [ ] What features do container orchestration tools offer? 
+ * [x] What problems does Kubernetes solve? 
+ * [x] What features do container orchestration tools offer? 
  
  [2. Main K8s Components](https://www.youtube.com/watch?v=X48VuDVv0do&t=320)
- * [ ] Node & Pod 
- * [ ] Service & Ingress 
- * [ ] ConfigMap & Secret 
- * [ ] Volumes 
- * [ ] Deployment & StatefulSet 
+ * [x] Node & Pod 
+ * [x] Service & Ingress 
+ * [x] ConfigMap & Secret 
+ * [x] Volumes 
+ * [x] Deployment & StatefulSet 
  
  [3. K8s Architecture](https://www.youtube.com/watch?v=X48VuDVv0do&t=1349s)
- * [ ] Worker Nodes 
- * [ ] Master Nodes 
- * [ ] Api Server 
- * [ ] Scheduler 
- * [ ] Controller Manager 
- * [ ] etcd - the cluster brain 
+ * [x] Worker Nodes 
+ * [x] Master Nodes 
+ * [x] Api Server 
+ * [x] Scheduler 
+ * [x] Controller Manager 
+ * [x] etcd - the cluster brain 
  
  [4. Minikube and kubectl - Local Setup](https://www.youtube.com/watch?v=X48VuDVv0do&t=2087s) 
  * [ ] What is minikube? 
